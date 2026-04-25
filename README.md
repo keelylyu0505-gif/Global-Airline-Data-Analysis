@@ -15,3 +15,13 @@ Based on the analysis, the **United States** leads the world with 230 airlines, 
 1. Download the `airlines.csv` and `.ipynb` files.
 2. Run the notebook in JupyterLab or Anaconda.
 3. Ensure the CSV file is in the same directory.bution
+---
+## 🎥 Project Demonstration
+As the video file exceeds the size limit for direct upload, a comprehensive 1-3 minute demonstration of this data product is hosted on Bilibili. 
+
+* **Demo Video Link:** [https://www.bilibili.com/video/video1555330627](https://www.bilibili.com/video/video1555330627)
+
+## 📊 Data Source and Acknowledgement
+* [cite_start]**Source:** Global Flight and Airline Dataset via Kaggle. [cite: 43]
+* [cite_start]**Access Date:** April 2026. 
+* [cite_start]**Context:** This dataset was selected for its business relevance in analyzing global aviation infrastructure and market distribution. [cite: 36]
