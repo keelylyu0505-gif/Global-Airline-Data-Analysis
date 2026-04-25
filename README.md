@@ -19,7 +19,7 @@ Based on the analysis, the **United States** leads the world with 230 airlines, 
 ## 🎥 Project Demonstration
 As the video file exceeds the size limit for direct upload, a comprehensive 1-3 minute demonstration of this data product is hosted on Bilibili. 
 
-* **Demo Video Link:** [https://www.bilibili.com/video/video1555330627](https://www.bilibili.com/video/video1555330627)
+* **Demo Video Link:** [[https://www.bilibili.com/video/video1555330627](https://www.bilibili.com/video/video1555330627](https://www.bilibili.com/video/BV12To9BiE8R/?spm_id_from=888.157.top_right_bar_window_history.content.click&vd_source=c6707a16359fc49d5ac0ad5063a9f6a2))
 
 ## 📊 Data Source and Acknowledgement
 * [cite_start]**Source:** Global Flight and Airline Dataset via Kaggle. [cite: 43]
